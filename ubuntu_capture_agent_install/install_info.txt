@@ -1,0 +1,33 @@
+# Output of uname -a
+Linux ocrec01 2.6.35-22-generic #33-Ubuntu SMP Sun Sep 19 20:32:27 UTC 2010 x86_64 GNU/Linux
+
+# Total memory
+3890968 kB
+
+# Processor(s) model name
+ Intel(R) Core(TM)2 Duo CPU     E7600  @ 3.06GHz ( 2 physical core(s),  2 virtual cores)
+
+# Installed packages
+v4l-conf
+ivtv-utils
+curl
+maven2
+sun-java6-jdk
+openssh-server
+gstreamer0.10-plugins-ugly
+gstreamer0.10-plugins-ugly-multiverse
+gstreamer0.10-ffmpeg
+ntp
+ gstreamer0.10-plugins-bad  gstreamer0.10-plugins-bad-multiverse 
+
+# Source code URL
+http://opencast.jira.com/svn/MH/tags/1.2.0
+
+# Installed devices (Clean Name ; Device Name ; Symbolic Link ; Queue Size (MBytes))
+cam ; BT878 video (ProVideo PV150) ; cam ; 512
+screen ; Epiphan VGA2USB ; screen ; 512
+mic ; HDA Intel AD198x Analog ; hw:0
+
+# Contents in /etc/issue
+Ubuntu 10.10 \n \l
+
